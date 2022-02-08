@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hibernate-configuration PUBLIC "-//Hibernate/Hibernate Configuration DTD 3.0//EN"
+                                         "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+ <session-factory>
+  <property name="hibernate.connection.driver_class">com.mysql.jdbc.Driver</property>
+  <property name="hibernate.connection.url">jdbc:mysql://localhost/hibernate_francesco</property>
+  <property name="hibernate.connection.username">root</property>
+  <property name="hibernate.dialect">org.hibernate.dialect.MySQL5InnoDBDialect</property>
+  <property name="hibernate.id.new_generator_mappings">false</property>
+  <mapping class="modelo.Usuario"/>
+  <mapping class="modelo.Ciudad"/>
+  <mapping class="modelo.Hotel"/>
+  <mapping class="modelo.Empresa"/>
+  <mapping class="modelo.EmpresaHotel"/>
+  <mapping class="modelo.Habitacion"/>
+  <mapping class="modelo.Reserva"/>
+  <mapping class="modelo.Pago"/>
+ </session-factory>
+</hibernate-configuration>

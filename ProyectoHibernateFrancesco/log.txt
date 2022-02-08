@@ -1,0 +1,554 @@
+
+!SESSION: Thu Feb 04 20:33:09 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:08:28 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:09:08 CET 2021
+
+!SESSION: Thu Feb 04 21:10:05 CET 2021
+Fin del programa.
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:11:22 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:12:48 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:13:55 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:14:47 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:15:20 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:21:30 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 04 21:23:45 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 16:51:47 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 16:54:48 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:05:03 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:05:12 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:05:20 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:06:42 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:06:50 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:12:43 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:19:48 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:28:59 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:29:22 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:29:39 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:30:15 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:38:42 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:43:24 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:43:51 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:46:54 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:47:54 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:48:32 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:49:43 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:50:27 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:54:25 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 17:54:47 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:08:00 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:11:08 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:12:13 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:14:44 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:15:44 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:18:48 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:26:40 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:39:29 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 18:46:28 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 19:00:50 CET 2021
+
+!SESSION: Fri Feb 05 19:01:36 CET 2021
+
+!SESSION: Fri Feb 05 19:04:48 CET 2021
+
+!SESSION: Fri Feb 05 19:09:37 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 19:14:24 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 19:15:23 CET 2021
+
+!SESSION: Fri Feb 05 19:21:44 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 19:55:38 CET 2021
+Fin del programa.
+
+!SESSION: Fri Feb 05 19:57:55 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 14:26:03 CET 2021
+
+!SESSION: Sat Feb 06 14:28:37 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 14:29:57 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 14:32:01 CET 2021
+Fin del programa.
+Initial SessionFactory creation failed.org.hibernate.AnnotationException: Associations marked as mappedBy must not define database mappings like @JoinTable or @JoinColumn: modelo.Hotel.duenos
+Initial SessionFactory creation failed.org.hibernate.AnnotationException: Use of @OneToMany or @ManyToMany targeting an unmapped class: modelo.Hotel.duenos[modelo.EmpresaHotel]
+Initial SessionFactory creation failed.org.hibernate.AnnotationException: mappedBy reference an unknown target entity property: modelo.EmpresaHotel.duenos in modelo.Empresa.hoteles
+Initial SessionFactory creation failed.org.hibernate.AnnotationException: mappedBy reference an unknown target entity property: modelo.EmpresaHotel.duenos in modelo.Empresa.hoteles
+Initial SessionFactory creation failed.org.hibernate.AnnotationException: mappedBy reference an unknown target entity property: modelo.EmpresaHotel.hoteles in modelo.Hotel.duenos
+Initial SessionFactory creation failed.org.hibernate.MappingException: Composite-id class must implement Serializable: modelo.EmpresaHotelId
+
+!SESSION: Sat Feb 06 18:35:30 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 18:37:09 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 18:41:10 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 18:41:18 CET 2021
+
+!SESSION: Sat Feb 06 18:50:54 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:12:50 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:20:09 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:30:43 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:32:16 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:34:14 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:39:06 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:52:16 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:53:09 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:54:08 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:54:36 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 19:55:00 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 20:13:22 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 20:15:01 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 20:17:33 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 06 20:18:40 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sun Feb 07 14:52:09 CET 2021
+Fin del programa.
+
+!SESSION: Sun Feb 07 14:54:27 CET 2021
+Fin del programa.
+
+!SESSION: Sun Feb 07 14:56:52 CET 2021
+Usuario: 2 consultó reservas.
+Fin del programa.
+
+!SESSION: Sun Feb 07 15:00:35 CET 2021
+Usuario: 2 consultó reservas.
+Usuario: 2 consultó reservas.
+Fin del programa.
+Initial SessionFactory creation failed.org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+
+!SESSION: Sun Feb 07 16:15:56 CET 2021
+Usuario: 14 consultó reservas.
+Fin del programa.
+
+!SESSION: Sun Feb 07 16:37:47 CET 2021
+Usuario: 14 consultó reservas.
+Usuario: 14 consultó reservas.
+Fin del programa.
+
+!SESSION: Sun Feb 07 16:38:21 CET 2021
+Usuario: 14 consultó reservas.
+Fin del programa.
+
+!SESSION: Sun Feb 07 16:42:09 CET 2021
+Usuario: 14 consultó reservas.
+Usuario: 14 imprimió: 20
+Usuario: 14 consultó reservas.
+Usuario: 14 borró reserva: 20
+Usuario: 14 consultó reservas.
+Fin del programa.
+
+!SESSION: Sun Feb 07 16:48:29 CET 2021
+
+!SESSION: Sun Feb 07 16:54:27 CET 2021
+
+!SESSION: Sun Feb 07 17:10:17 CET 2021
+Fin del programa.
+
+!SESSION: Sun Feb 07 17:16:47 CET 2021
+Fin del programa.
+
+!SESSION: Sun Feb 07 17:17:24 CET 2021
+Fin del programa.
+
+!SESSION: Sun Feb 07 17:18:07 CET 2021
+Admin actualizó reserva con id: 19
+Admin actualizó reserva con id: 19
+Fin del programa.
+
+!SESSION: Sun Feb 07 17:19:00 CET 2021
+
+!SESSION: Sun Feb 07 17:21:49 CET 2021
+Admin actualizó reserva con id: 19
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+Initial SessionFactory creation failed.org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+
+!SESSION: Sun Feb 07 21:27:28 CET 2021
+Usuario: 2 consultó reservas.
+Usuario: 2 consultó habitaciones
+Usuario: 2 reservó habitación: 23
+Usuario: 2 consultó reservas.
+Usuario: 2 borró reserva: 21
+Usuario: 2 consultó reservas.
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:28:12 CET 2021
+Usuario: 1 consultó habitaciones
+Usuario: 1 consultó reservas.
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:35:59 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:46:55 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:51:00 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:51:29 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:54:47 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 16:55:13 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:04:52 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:05:38 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:08:31 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:23:09 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:25:42 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:26:22 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:27:02 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:42:31 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:42:57 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:44:34 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:46:40 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:47:16 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:48:41 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:49:22 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 17:51:02 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:12:19 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:12:45 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:13:27 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:13:52 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:15:40 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:16:59 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:18:59 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:21:06 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:22:36 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:25:16 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:25:41 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:26:57 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:28:12 CET 2021
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:29:34 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Mon Feb 08 18:30:12 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+Initial SessionFactory creation failed.org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+Initial SessionFactory creation failed.org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+Initial SessionFactory creation failed.org.hibernate.service.spi.ServiceException: Unable to create requested service [org.hibernate.engine.jdbc.env.spi.JdbcEnvironment]
+
+!SESSION: Wed Feb 10 19:43:17 CET 2021
+Usuario: 15 consultó habitaciones
+Usuario: 15 consultó habitaciones
+Usuario: 15 consultó habitaciones
+Usuario: 15 consultó habitaciones
+Usuario: 15 consultó habitaciones
+Usuario: 15 consultó habitaciones
+Usuario: 15 reservó habitación: 27
+Usuario: 15 consultó reservas.
+Usuario: 15 imprimió: 22
+Usuario: 15 borró reserva: 22
+Usuario: 15 consultó reservas.
+Fin del programa.
+
+!SESSION: Wed Feb 10 21:42:30 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:16:55 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:27:17 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:31:38 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:32:04 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:32:26 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:33:28 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:33:40 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:33:54 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:34:34 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:37:21 CET 2021
+Fin del programa.
+
+!SESSION: Thu Feb 11 20:38:10 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 13 09:24:59 CET 2021
+Usuario: 2 consultó habitaciones
+Usuario: 2 consultó habitaciones
+Usuario: 2 consultó habitaciones
+Usuario: 2 consultó habitaciones
+Usuario: 2 consultó habitaciones
+Usuario: 2 consultó habitaciones
+Usuario: 2 reservó habitación: 33
+Usuario: 2 consultó reservas.
+Fin del programa.
+
+!SESSION: Sat Feb 13 09:43:35 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 13 09:49:51 CET 2021
+Administrador consultó tabla Hoteles Empresas
+Fin del programa.
+
+!SESSION: Sat Feb 13 09:50:53 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 13 09:58:16 CET 2021
+Fin del programa.
+
+!SESSION: Sat Feb 13 10:02:00 CET 2021
+
+!SESSION: Tue Feb 08 18:47:14 CET 2022
+Usuario: 16 consultó habitaciones
+Usuario: 16 consultó habitaciones
+Usuario: 16 consultó habitaciones
+Fin del programa.
